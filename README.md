@@ -2,7 +2,6 @@
 
 ## Repositório com intuito de estudar análise de dados com Python, abordando data frames e casos reais. Além disso, foram utilizados arquivos em Jupyter Notebook para facilitar a visualização de toda a construção das análises.
 
----
 ## O presente repositório está utilizando as seguintes bibliotecas em Python:
 - Pandas
 - NumPy
