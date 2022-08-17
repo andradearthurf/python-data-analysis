@@ -11,3 +11,4 @@ O presente repositório está utilizando as seguintes bibliotecas em Python:
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
