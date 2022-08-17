@@ -3,7 +3,7 @@
 Repositório com intuito de estudar análise de dados com Python, abordando data frames e casos fictícios. 
 
 
-Todas análise feitas podem ser encontradas na pasta "cases", cujo o link é: https://github.com/andradearthurf/python-data-analysis/tree/main/cases
+Todas as análise feitas podem ser encontradas na pasta "cases", cujo o link é: https://github.com/andradearthurf/python-data-analysis/tree/main/cases
 
 Já os dataframes, para as respectivas análises, se encontram na pasta "data", cujo link é: https://github.com/andradearthurf/python-data-analysis/tree/main/data
 
