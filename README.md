@@ -1,6 +1,6 @@
 # Análise de Dados com Python
 
-Repositório com intuito de estudar análise de dados com Python, abordando data frames e casos fictícios. 
+Repositório com intuito de estudar análise de dados com Python, abordando data frames e casos fictícios/reais. 
 
 
 Todas as análise feitas podem ser encontradas na pasta "cases", cujo o link é: https://github.com/andradearthurf/python-data-analysis/tree/main/cases
