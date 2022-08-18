@@ -21,6 +21,8 @@ Dessa forma, o que se espera desse projeto é que seja feita uma análise de dad
 10. Qual foi o crescimento do preço dos imóveis ano após ano?
 11. Qual foi o crescimento do preço dos imóveis mês após mês?
 
+As respostas das questões acima e toda a construção da análise de dados para a House Rocket, podem ser encontrados neste repositório, no seguinte link:  [data_analysis_HouseRocket](https://github.com/andradearthurf/python-data-analysis/blob/main/cases/data_analisys_HouseRocket.ipynb)
+
 ---
 
 Todas as análise feitas podem ser encontradas na pasta "cases", cujo o link é: https://github.com/andradearthurf/python-data-analysis/tree/main/cases
