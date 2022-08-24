@@ -26,10 +26,10 @@ As respostas das questões acima e toda a construção da análise de dados para
 
 ## Caso 2 - Análise dos Microdados do ENEM 2019
 
-Este projeto tem como intuito, mostrar de forma clara, a análise de dados do ENEM 2019, que compara os aspectos dos candidatos sem deficiência e candidatos com baixa visão. Além disso, também tem-se como finalidade destacar as principais diferenças tanto da nota tirada em cada prova, quanto das notas gerais da prova como um todo. Não busquei focar nas características socioeconômicas dos participantes, pois o critério das análise é verificar se os participantes foram bem ou não na prova, a julgar pela visão (normal e baixa visão).
+Este projeto tem como intuito, mostrar de forma clara, a análise de dados do ENEM 2019, que compara os aspectos dos candidatos sem deficiência e candidatos com baixa visão. Além disso, também tem-se como finalidade destacar as principais diferenças tanto da nota tirada em cada prova, quanto dos acertos em cada prova, isto é, de ciências da natureza, ciências humanas, linguagens e matemática. Não busquei focar nas características socioeconômicas dos participantes, pois o critério das análise é verificar se os participantes foram bem ou não na prova, a julgar pela visão (normal e baixa visão).
 
 Quais análises esperam ser feitas?
-1. Comparação das notas do ENEM 2019 de participantes com visão normal e baixa visão
+1. Comparação das notas das provas do ENEM 2019 de participantes com visão normal e baixa visão
 2. Comparação dos acertos das provas AZUL e ROSA do ENEM 2019 dos participantes com visão normal e baixa visão
 
 Os resultados das análises acima e toda a contrução da análise de dados para os MICRODADOS do ENEM 2019, podem ser encontrados neste repositório, no seguinte arquivo:
