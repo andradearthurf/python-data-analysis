@@ -21,13 +21,25 @@ Dessa forma, o que se espera desse projeto é que seja feita uma análise de dad
 10. Qual foi o crescimento do preço dos imóveis ano após ano?
 11. Qual foi o crescimento do preço dos imóveis mês após mês?
 
-As respostas das questões acima e toda a construção da análise de dados para a House Rocket, podem ser encontrados neste repositório, no seguinte link:  [data_analysis_HouseRocket](https://github.com/andradearthurf/python-data-analysis/blob/main/cases/data_analisys_HouseRocket.ipynb)
+As respostas das questões acima e toda a construção da análise de dados para a House Rocket, podem ser encontrados neste repositório, no seguinte arquivo:  [data_analysis_HouseRocket](https://github.com/andradearthurf/python-data-analysis/blob/main/cases/data_analisys_HouseRocket.ipynb)
+
+
+## Caso 2 - Análise dos Microdados do ENEM 2019
+
+Este projeto tem como intuito, mostrar de forma clara, a análise de dados do ENEM 2019, que compara os aspectos dos candidatos sem deficiência e candidatos com baixa visão. Além disso, também tem-se como finalidade destacar as principais diferenças tanto da nota tirada em cada prova, quanto das notas gerais da prova como um todo. Não busquei focar nas características socioeconômicas dos participantes, pois o critério das análise é verificar se os participantes foram bem ou não na prova, a julgar pela visão (normal e baixa visão).
+
+Quais análises esperam ser feitas?
+1. Comparação das notas do ENEM 2019 de participantes com visão normal e baixa visão
+2. Comparação dos acertos das provas AZUL e ROSA do ENEM 2019 dos participantes com visão normal e baixa visão
+
+Os resultados das análises acima e toda a contrução da análise de dados para os MICRODADOS do ENEM 2019, podem ser encontrados neste repositório, no seguinte arquivo:
+[data_analysis_ENEM](https://github.com/andradearthurf/python-data-analysis/blob/main/cases/data_analisys_ENEM.ipynb)
 
 ---
 
-Todas as análise feitas podem ser encontradas na pasta "cases", cujo o link é: https://github.com/andradearthurf/python-data-analysis/tree/main/cases
+Todas as análise feitas podem ser encontradas na pasta "cases", cujo a pasta é: [cases](https://github.com/andradearthurf/python-data-analysis/tree/main/cases)
 
-Já os dataframes, para as respectivas análises, se encontram na pasta "data", cujo link é: https://github.com/andradearthurf/python-data-analysis/tree/main/data
+Já os dataframes, para as respectivas análises, se encontram na pasta "data", cujo a pasta é: [data](https://github.com/andradearthurf/python-data-analysis/tree/main/data)
 
 
 Além disso, foram utilizados arquivos em Jupyter Notebook para facilitar a visualização de toda a construção das análises.
