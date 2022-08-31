@@ -63,3 +63,4 @@ O presente repositório está utilizando as seguintes bibliotecas em Python:
 - NumPy
 - Matplotlib
 - Seaborn
+- Datetime
