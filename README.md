@@ -35,6 +35,18 @@ Quais análises esperam ser feitas?
 Os resultados das análises acima e toda a contrução da análise de dados para os MICRODADOS do ENEM 2019, podem ser encontrados neste repositório, no seguinte arquivo:
 [data_analysis_ENEM](https://github.com/andradearthurf/python-data-analysis/blob/main/cases/data_analisys_ENEM.ipynb)
 
+
+## Caso 3 - Brazilian E-commerce Public Dataset 
+
+Este conjunto de dados foi generosamente fornecido pela Olist, a maior loja de departamentos dos marketplaces brasileiros. A Olist conecta pequenas empresas de todo o Brasil a canais sem complicações e com um único contrato. Esses comerciantes podem vender seus produtos através da Olist Store e enviá-los diretamente aos clientes usando os parceiros de logística da Olist. 
+
+Dessa forma a Olist gera uma base de dados com todas as informações de pagamentos e vendas, por exemplo, dos comerciantes e lojas. E é em cima dessa base de dados que eu irei realizar a análise exploratória dos dados.
+
+Toda a análise exploratória e toda a contrução das análises de dados para o Brazilian E-commerce Public Dataset, podem ser encontrados neste repositório, no seguinte arquivo:
+[data_analysis_BrazilianE-Commerce](https://github.com/andradearthurf/python-data-analysis/blob/main/cases/data_analisys_BrazilianE-Commerce.ipynb)
+
+O dataset principal foi retirado do Kaggle, no seguinte link: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ---
 
 Todas as análise feitas podem ser encontradas na pasta "cases", cujo a pasta é: [cases](https://github.com/andradearthurf/python-data-analysis/tree/main/cases)
